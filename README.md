@@ -37,6 +37,13 @@ Convert values across Length, Area, Weight, Density, and Force.
 
 ---
 
+### 🏝️ Treasure Island - Python Adventure Game  
+Interactive text-based adventure game built with Python.  
+- 🔗 [Live App](https://treasure-island-ai.streamlit.app)  
+- 📄 [Source Code](https://github.com/mohamedeltawill/treasure-island-ai)
+
+---
+
 ## 🏅 Certifications
 
 | Certificate | Issuer | Date |
